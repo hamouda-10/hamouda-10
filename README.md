@@ -50,7 +50,7 @@
   <a href="https://www.youtube.com/@abdohamouda1042" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="youtube logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/channels/1337915857350688768/1337915858604916740" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/hamouda_1000/" target="_blank">
@@ -87,7 +87,7 @@
   <a href="https://www.youtube.com/@abdohamouda1042" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="79" height="69" alt="youtube logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/channels/1337915857350688768/1337915858604916740" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="79" height="69" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/hamouda_1000/" target="_blank">
